@@ -1,6 +1,5 @@
 #include <cstdio>
 int main()
 {
-  cout << "Fixed";
+  cout << "Fixed2";
 }
-  
